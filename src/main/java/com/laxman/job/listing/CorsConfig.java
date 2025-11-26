@@ -17,7 +17,7 @@ public class CorsConfig {
                 registry.addMapping("/**")
                         .allowedOrigins(
                                 "http://localhost:3000",
-                                "https://your-production-portfolio-url.com"
+                                "https://laxmanrao23.github.io"
                         )
                         .allowedMethods("*")
                         .allowedHeaders("*")
